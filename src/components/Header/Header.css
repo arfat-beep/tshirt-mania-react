@@ -1,0 +1,12 @@
+nav a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+    font-size: 24px;
+
+}
+nav a:hover{
+    color: orange;
+}nav a:active{
+    color: antiquewhite;
+}
